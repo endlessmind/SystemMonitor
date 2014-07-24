@@ -1,0 +1,83 @@
+C:\Users\Pontus\AppData\Local\Temporary Projects\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.xml
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.vbprojResolveAssemblyReference.cache
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\MainWindow.baml
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\MainWindow.g.vb
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\Application.g.vb
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor_MarkupCompile.cache
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.g.resources
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Resources.resources
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.vbproj.GenerateResource.Cache
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.xml
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SpeedDialControl.dll
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SpeedDialControl.pdb
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\WPFRollingMonitor.dll
+C:\Users\Pontus\Documents\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\WPFRollingMonitor.pdb
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.xml
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.xml
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SpeedDialControl.dll
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\SpeedDialControl.pdb
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\bin\Debug\WPFRollingMonitor.pdb
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\ResolveAssemblyReference.cache
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\MainWindow.baml
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\MainWindow.g.vb
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\Application.g.vb
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor_MarkupCompile.cache
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.g.resources
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Resources.resources
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\HalfCircleControl.baml
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\HalfCircleControl.g.vb
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\Application.baml
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\GeneratedInternalTypeHelper.g.vb
+H:\Spara inför formatering\programmeringen\Visual Studio 11\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor_MarkupCompile.lref
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.xml
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.xml
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\bin\Debug\WPFRollingMonitor.pdb
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\HalfCircleControl.baml
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\Application.baml
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\HalfCircleControl.g.vb
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\MainWindow.g.vb
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\Application.g.vb
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor_MarkupCompile.cache
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor_MarkupCompile.lref
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\MainWindow.baml
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.g.resources
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Resources.resources
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\ResGen.read.1.tlog
+C:\Users\Pontus\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\ResGen.write.1.tlog
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.xml
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\HalfCircleControl.baml
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\Application.baml
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\HalfCircleControl.g.vb
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\MainWindow.g.vb
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\Application.g.vb
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor_MarkupCompile.cache
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor_MarkupCompile.lref
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\MainWindow.baml
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.g.resources
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Resources.resources
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.vbproj.GenerateResource.Cache
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.xml
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb

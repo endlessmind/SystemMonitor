@@ -1,0 +1,18 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sdc="clr-namespace:SpeedDialApp;assembly=SpeedDialControl"
+        xmlns:chart="clr-namespace:DNBSoft.WPF.RollingMonitor;assembly=WPFRollingMonitor"
+        xmlns:line="clr-namespace:SpeedDialControl.LineChart;assembly=SpeedDialControl"
+    Title="MainWindow" Height="490" Width="626" xmlns:my="clr-namespace:SystemMonitor">
+    <Grid>
+        <sdc:SpeedDialControl x:Name="SpeedDialControl1"  Height="180" Width="180" Value="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,29,0,0" Visibility="Visible" />
+        <sdc:SpeedDialControl x:Name="SpeedDialControl2" HorizontalAlignment="Left" Margin="184,29,0,0" VerticalAlignment="Top" Width="180" Height="180" Visibility="Hidden" />
+        <Label Content="CPU" HorizontalAlignment="Left" Margin="74,-0.96,0,0" VerticalAlignment="Top"/>
+        <Label Content="RAM" HorizontalAlignment="Left" Margin="255,-0.96,0,0" VerticalAlignment="Top"/>
+        <line:LineChartControl x:Name="linechart1" Height="100" Width="250" Margin="238,213,122,139" />
+        <chart:RollingMonitor x:Name="chart1" RenderTransformOrigin="0.492,0.527" Margin="8,209,430,187" />
+        <my:HalfCircleControl HorizontalAlignment="Left" Margin="320,42,0,0" x:Name="HalfCircleControl1" VerticalAlignment="Top" Height="151" Width="262" />
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="140,362,0,0" Name="Button1" VerticalAlignment="Top" Width="75" />
+    </Grid>
+</Window>
