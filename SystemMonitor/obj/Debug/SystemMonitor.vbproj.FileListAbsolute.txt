@@ -81,3 +81,4 @@ C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor
 C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
 C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.xml
 C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
+C:\Users\HåBe\Documents\Visual Studio 2010\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.vbprojResolveAssemblyReference.cache

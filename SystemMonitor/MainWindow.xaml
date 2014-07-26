@@ -12,7 +12,7 @@
                     <RowDefinition Height="30" />
                 </Grid.RowDefinitions>
                 <my:HalfCircleControl HorizontalAlignment="Left" x:Name="HalfCircleControl1" VerticalAlignment="Top" Height="120" Width="120" Unit="{Binding Unit}"  Value="{Binding Value}"  />
-                <Label Grid.Row="1" Content="{Binding Name}" />
+                <Label Grid.Row="1" Content="{Binding Name}" Foreground="White" />
             </Grid>
         </DataTemplate>
 
